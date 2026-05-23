@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kesava Reddy Pagadam
 
-**Full-Stack MERN Developer | 180+ LeetCode Problems Solved | Building Scalable Web Applications**
+**Full-Stack MERN Developer | 200+ LeetCode Problems Solved | Building Scalable Web Applications**
 
 ---
 
